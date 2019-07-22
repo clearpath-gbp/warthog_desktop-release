@@ -1,0 +1,12 @@
+Source: ros-melodic-warthog-desktop
+Section: misc
+Priority: extra
+Maintainer: Tony Baltovski <tbaltovski@clearpathrobotics.com>
+Build-Depends: debhelper (>= 9.0.0), ros-melodic-catkin
+Homepage: http://wiki.ros.org/warthog_desktop
+Standards-Version: 3.9.2
+
+Package: ros-melodic-warthog-desktop
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-melodic-warthog-msgs, ros-melodic-warthog-viz
+Description: Packages for working with Warthog from a ROS desktop.
