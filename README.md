@@ -1,3 +1,28 @@
+## warthog_desktop (melodic) - 0.0.1-1
+
+The packages in the `warthog_desktop` repository were released into the `melodic` distro by running `/usr/bin/bloom-release -r melodic -t melodic warthog_desktop` on `Mon, 22 Jul 2019 15:08:57 -0000`
+
+These packages were released:
+- `warthog_desktop`
+- `warthog_viz`
+
+Version of package(s) in repository `warthog_desktop`:
+
+- upstream repository: https://github.com/warthog-cpr/warthog_desktop.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.0.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.8.0`
+- catkin_pkg version: `0.4.12`
+- rosdep version: `0.15.2`
+- rosdistro version: `0.7.4`
+- vcstools version: `0.1.40`
+
+
 ## warthog_desktop (kinetic) - 0.0.1-1
 
 The packages in the `warthog_desktop` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release warthog_desktop -r kinetic -t kinetic --new-track` on `Tue, 15 May 2018 13:42:27 -0000`
