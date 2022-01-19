@@ -1,0 +1,12 @@
+Source: ros-noetic-warthog-viz
+Section: misc
+Priority: optional
+Maintainer: Tony Baltovski <tbaltovski@clearpathrobotics.com>
+Build-Depends: debhelper (>= 9.0.0), ros-noetic-catkin, ros-noetic-roslaunch
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-noetic-warthog-viz
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-noetic-joint-state-publisher, ros-noetic-joint-state-publisher-gui, ros-noetic-rqt-console, ros-noetic-rqt-gui, ros-noetic-rqt-robot-monitor, ros-noetic-rviz, ros-noetic-warthog-description
+Description: Visualization launchers and helpers for Warthog.
