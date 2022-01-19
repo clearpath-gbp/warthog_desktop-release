@@ -1,0 +1,12 @@
+Source: ros-noetic-warthog-desktop
+Section: misc
+Priority: optional
+Maintainer: Tony Baltovski <tbaltovski@clearpathrobotics.com>
+Build-Depends: debhelper (>= 9.0.0), ros-noetic-catkin
+Homepage: http://wiki.ros.org/warthog_desktop
+Standards-Version: 3.9.2
+
+Package: ros-noetic-warthog-desktop
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-noetic-warthog-msgs, ros-noetic-warthog-viz
+Description: Packages for working with Warthog from a ROS desktop.
