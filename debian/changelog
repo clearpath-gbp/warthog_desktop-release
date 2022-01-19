@@ -1,0 +1,20 @@
+ros-melodic-warthog-desktop (0.1.1-1bionic) bionic; urgency=high
+
+
+
+ -- Tony Baltovski <tbaltovski@clearpathrobotics.com>  Tue, 18 Jan 2022 05:00:00 -0000
+
+ros-melodic-warthog-desktop (0.1.0-1bionic) bionic; urgency=high
+
+
+
+ -- Tony Baltovski <tbaltovski@clearpathrobotics.com>  Thu, 17 Sep 2020 04:00:00 -0000
+
+ros-melodic-warthog-desktop (0.0.1-1bionic) bionic; urgency=high
+
+  * Initial commit.
+  * Contributors: Tony Baltovski
+
+ -- Tony Baltovski <tbaltovski@clearpathrobotics.com>  Mon, 03 Oct 2016 04:00:00 -0000
+
+
